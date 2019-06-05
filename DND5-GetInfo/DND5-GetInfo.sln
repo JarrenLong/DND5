@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DND5-GetInfo", "DND5-GetInfo.csproj", "{2D4725D0-753D-450E-A0B6-2DDB3C7BA76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4725D0-753D-450E-A0B6-2DDB3C7BA76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4725D0-753D-450E-A0B6-2DDB3C7BA76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4725D0-753D-450E-A0B6-2DDB3C7BA76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4725D0-753D-450E-A0B6-2DDB3C7BA76F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB1F774-7DBD-4E40-A90C-71A4D88B5B43}
+	EndGlobalSection
+EndGlobal

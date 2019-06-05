@@ -1,0 +1,3 @@
+https://donjon.bin.sh/5e/magic_items/rpc.cgi?name=Bag%20of%20Holding
+https://donjon.bin.sh/5e/spells/rpc.cgi?name=Acid%20Splash
+https://donjon.bin.sh/5e/monsters/rpc.cgi?name=Frog
